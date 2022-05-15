@@ -4,8 +4,8 @@ Feedback Widget - Mobile
 ### Tecnologias:
 [Expo Google Font](https://docs.expo.dev/guides/using-custom-fonts/) | 
 [Phosphor React Native](https://github.com/duongdev/phosphor-react-native) | 
-[React Native Bottom Sheet](https://gorhom.github.io/react-native-bottom-sheet/)
-[Expo Reanimated](https://docs.expo.dev/versions/latest/sdk/reanimated/)
+[React Native Bottom Sheet](https://gorhom.github.io/react-native-bottom-sheet/) | 
+[Expo Reanimated](https://docs.expo.dev/versions/latest/sdk/reanimated/) | 
 [Expo GestureHandler](https://docs.expo.dev/versions/latest/sdk/gesture-handler/)
 
 ### Criando projeto:
