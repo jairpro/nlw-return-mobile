@@ -47,8 +47,7 @@ Feedback Widget - Mobile
 
 ## Dicas da milha extra:
 - [ ] 1. Tema light/dark (veja: 
-[layout](https://www.figma.com/file/sk4LIu56Evs9fhFFYce6NT/Feedback-Widget-(Community)?node-id=100%3A2114) |
-[tailwindcss Dark Mode](https://tailwindcss.com/docs/dark-mode))
+[layout](https://www.figma.com/file/KwRfD4DeYK4bdGIp6oAPqs/Feedback-Widget-(Community)?node-id=10%3A1638)
 - [ ] 2. Dashboard de feedbacks (usando autenticação: Firebase/OAuth)
 - [ ] 3. Validação de campos/erros
 
