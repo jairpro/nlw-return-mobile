@@ -46,10 +46,11 @@ Feedback Widget - Mobile
 [NLW Return - Web](https://github.com/jairpro/nlw-return-web)
 
 ## Dicas da milha extra:
-- [ ] 1. Tema light/dark (veja: 
+- [ ] 1. integrar com o [Server](https://github.com/jairpro/nlw-return-server) na web
+- [ ] 2. Tema light/dark (veja: 
 [layout](https://www.figma.com/file/KwRfD4DeYK4bdGIp6oAPqs/Feedback-Widget-(Community)?node-id=10%3A1638))
-- [ ] 2. Dashboard de feedbacks (usando autenticação: Firebase/OAuth)
-- [ ] 3. Validação de campos/erros
+- [ ] 3. Dashboard de feedbacks (usando autenticação: Firebase/OAuth)
+- [ ] 4. Validação de campos/erros
 
 ## 💜 Agradecimentos
 Agradeço a [Rockeatseat](https://rocketseat.com.br/) pela baita aula e pelo empenho em levar nós devs para o próximo nível!
